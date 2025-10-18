@@ -1,0 +1,6 @@
+# Build results
+CodexTestApp1/bin/
+CodexTestApp1/obj/
+
+# IDE settings
+.vscode/
